@@ -7,7 +7,7 @@
 
 # COM Trajectory Genration 
 
-- To generate the COM trajectory I use the [3DLIPM](https://www.cs.cmu.edu/~hgeyer/Teaching/R16-899B/Papers/KajiitaEA01IEEE_ICIRS.pdf) 
+- To generate the COM trajectory I used the [3DLIPM](https://www.cs.cmu.edu/~hgeyer/Teaching/R16-899B/Papers/KajiitaEA01IEEE_ICIRS.pdf) 
 
 - The Dynamics equations are 
 <p align="center">
@@ -37,7 +37,7 @@
 
 # Swing leg Trajectory Genration
 
-- To generate the swing leg trajectory I use the elliptical trajectory for z co-ordinate and x co-ordinate is the mirror image of the x co-ordinate of the fixed leg about the x co-ordinate of the COM
+- To generate the swing leg trajectory I used the elliptical trajectory for z co-ordinate and x co-ordinate is the mirror image of the x co-ordinate of the fixed leg about the x co-ordinate of the COM
 
 # Results
 
