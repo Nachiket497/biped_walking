@@ -2,12 +2,12 @@
 
 # Aim 
 
-- To Genrate the COM trajectory and swing leg trajectory for the single step.
+- To Generate the COM trajectory and swing leg trajectory for the single step.
 
 
 # COM Trajectory Genration 
 
-- To genrate the COM trajectory I use the [3DLIPM](https://www.cs.cmu.edu/~hgeyer/Teaching/R16-899B/Papers/KajiitaEA01IEEE_ICIRS.pdf) 
+- To generate the COM trajectory I use the [3DLIPM](https://www.cs.cmu.edu/~hgeyer/Teaching/R16-899B/Papers/KajiitaEA01IEEE_ICIRS.pdf) 
 
 - The Dynamics equations are 
 <p align="center">
@@ -37,8 +37,7 @@
 
 # Swing leg Trajectory Genration
 
-- To genrate the swing leg trajectory I use the elliptical trajectory for z co-ordinate and x co-ordinate is the mirror image of the x co-ordinate of fix leg about the x co-ordinate of the COM 
-
+- To generate the swing leg trajectory I use the elliptical trajectory for z co-ordinate and x co-ordinate is the mirror image of the x co-ordinate of the fixed leg about the x co-ordinate of the COM
 
 # Results
 
@@ -61,7 +60,7 @@
 </p>
 
 
-# Combining both trajectory we get the complete single step trajectory 
+# Combining both trajectory we get the complete single step trajectory
 
 - 3D View
 
